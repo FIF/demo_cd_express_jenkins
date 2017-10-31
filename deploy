@@ -1,4 +1,4 @@
--#!/bin/sh      
+#!/bin/sh      
 ssh vandung53cc@35.188.120.245 <<EOF        
  cd /home/vandung53cc/demo_cd_express_jenkins   
  git pull       
